@@ -1,6 +1,6 @@
 ---
 name: User story
-about: This Template is for Creatnmg user stories
+about: This Template is for Creatimg user stories
 title: ''
 labels: ''
 assignees: ''
